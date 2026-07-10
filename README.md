@@ -1,10 +1,10 @@
-# Screen Mirror - 投屏工具
+# 安卓投屏
 
 Android USB/无线投屏工具，基于 scrcpy。
 
 ## 下载
 
-直接下载 Mirror.exe，双击运行，无需安装。
+直接下载 安卓投屏.exe，双击运行，无需安装。
 
 ## 功能
 
