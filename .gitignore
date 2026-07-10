@@ -1,0 +1,10 @@
+# Build output
+*.exe
+*.pdb
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Temp files
+*.tmp
